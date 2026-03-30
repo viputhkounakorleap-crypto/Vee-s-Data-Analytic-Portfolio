@@ -7,7 +7,7 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Vee — a Data & Business Analytics student at UMass Boston
+### 👋 Hi, I'm Vee, a Data & Business Analytics student at UMass Boston
 
 I specialize in transforming complex datasets into actionable insights using SQL, cloud analytics, and business intelligence tools. With hands-on experience in insurance and healthcare administration, I bring both technical skills and real-world domain knowledge to every project.
 
@@ -57,6 +57,27 @@ I specialize in transforming complex datasets into actionable insights using SQL
 ## 📊 Featured Projects
 
 ---
+### 📋 KFF Employer Health Benefits — Stop-Loss & Premium Dashboard
+
+How are rising healthcare costs reshaping employer funding strategies and employee financial burden?
+
+
+An interactive dashboard analyzing employer-sponsored health insurance trends, with a focus on premium cost growth, plan funding strategies, and the shifting financial burden onto employees. Built using real-world data from the KFF Employer Health Benefits Survey (2019–2025).
+
+**Key findings:**
+
+-📈 Family premiums rose **~26% from 2019–2025, reaching $26,993**
+-🏥 67% of workers are now enrolled in self-funded plans, **up from 61%**
+-📉 Stop-loss adoption among small firms grew from **28% → 37%**
+-💸 Small-firm employees pay $2,662 more annually than large-firm counterparts
+-📊 PPO plans carry the highest premiums; HDHP/SO plans the lowest
+
+What I built:
+
+6 interactive visualizations covering premium trends, worker contributions, and plan funding strategies
+Dynamic filters by year, firm size, and coverage type
+KPI summary cards designed for executive-level decision-making
+
 
 ### 🏥 Insurance Cost Analysis
 > *What percentage of total insurance costs come from high-cost claimants?*
